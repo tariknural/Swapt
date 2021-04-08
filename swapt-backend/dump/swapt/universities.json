@@ -1,0 +1,147 @@
+[
+  {
+    "_id": "5f0ee8378aa15a468c55ce79",
+    "web_pages": [
+      "http://www.gu.se/"
+    ],
+    "domains": [
+      "gu.se"
+    ],
+    "name": "University of Gothenburg",
+    "country": "5f0ee8368aa15a468c55cda8",
+    "city": "5f0ee8368aa15a468c55ce76",
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce7a",
+    "web_pages": [
+      "http://www.chalmers.se/"
+    ],
+    "domains": [
+      "chalmers.se"
+    ],
+    "name": "Chalmers University of Technology",
+    "country": "5f0ee8368aa15a468c55cda8",
+    "city": "5f0ee8368aa15a468c55ce76",
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce7b",
+    "web_pages": [
+      "http://www.tum.de/"
+    ],
+    "domains": [
+      "tum.de",
+      "tum.edu"
+    ],
+    "name": "Technische Universität München",
+    "country": "5f0ee8368aa15a468c55cda7",
+    "city": "5f0ee8368aa15a468c55ce77",
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce7c",
+    "web_pages": [
+      "http://www.uni-muenchen.de/"
+    ],
+    "domains": [
+      "uni-muenchen.de"
+    ],
+    "name": "Ludwig-Maximilians-Universität München",
+    "country": "5f0ee8368aa15a468c55cda7",
+    "city": "5f0ee8368aa15a468c55ce77",
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce7d",
+    "web_pages": [
+      "http://www.fh-muenchen.de/"
+    ],
+    "domains": [
+      "fh-muenchen.de"
+    ],
+    "name": "Fachhochschule München",
+    "country": "5f0ee8368aa15a468c55cda7",
+    "city": "5f0ee8368aa15a468c55ce77",
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce7e",
+    "web_pages": [
+      "http://www.su.se/"
+    ],
+    "domains": [
+      "su.se"
+    ],
+    "name": "Stockholm University",
+    "country": "5f0ee8368aa15a468c55cda8",
+    "city": "5f0ee8368aa15a468c55ce75",
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce7f",
+    "web_pages": [
+      "http://www.stockholm-fu.com/"
+    ],
+    "domains": [
+      "stockholm-fu.com"
+    ],
+    "name": "Free University Stockholm",
+    "country": "5f0ee8368aa15a468c55cda8",
+    "city": "5f0ee8368aa15a468c55ce75",
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce80",
+    "web_pages": [
+      "http://www.hhs.se/"
+    ],
+    "domains": [
+      "hhs.se"
+    ],
+    "name": "Stockholm School of Economics",
+    "country": "5f0ee8368aa15a468c55cda8",
+    "city": "5f0ee8368aa15a468c55ce75",
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce81",
+    "web_pages": [
+      "https://www.htw-berlin.de/"
+    ],
+    "domains": [
+      "fhtw-berlin.de",
+      "htw-berlin.de"
+    ],
+    "name": "Hochschule für Technik und Wirtschaft Berlin",
+    "country": "5f0ee8368aa15a468c55cda7",
+    "city": "5f0ee8368aa15a468c55ce78",
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce82",
+    "web_pages": [
+      "http://www.fu-berlin.de/"
+    ],
+    "domains": [
+      "fu-berlin.de"
+    ],
+    "name": "Freie Universität Berlin",
+    "country": "5f0ee8368aa15a468c55cda7",
+    "city": "5f0ee8368aa15a468c55ce78",
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce83",
+    "web_pages": [
+      "http://www.hu-berlin.de/"
+    ],
+    "domains": [
+      "hu-berlin.de"
+    ],
+    "name": "Humboldt Universität Berlin",
+    "country": "5f0ee8368aa15a468c55cda7",
+    "city": "5f0ee8368aa15a468c55ce78",
+    "__v": 0
+  }
+]

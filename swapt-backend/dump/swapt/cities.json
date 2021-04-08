@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "5f0ee8368aa15a468c55ce75",
+    "name": "Stockholm",
+    "banner_picture": "http://localhost:8080/public/pictures/city/stockholm.jpg",
+    "country": "5f0ee8368aa15a468c55cda8",
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8368aa15a468c55ce76",
+    "name": "Gothenburg",
+    "banner_picture": "http://localhost:8080/public/pictures/city/gothenburg.jpg",
+    "country": "5f0ee8368aa15a468c55cda8",
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8368aa15a468c55ce77",
+    "name": "Munich",
+    "banner_picture": "http://localhost:8080/public/pictures/city/munich.jpg",
+    "country": "5f0ee8368aa15a468c55cda7",
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8368aa15a468c55ce78",
+    "name": "Berlin",
+    "banner_picture": "http://localhost:8080/public/pictures/city/berlin.jpg",
+    "country": "5f0ee8368aa15a468c55cda7",
+    "__v": 0
+  }
+]

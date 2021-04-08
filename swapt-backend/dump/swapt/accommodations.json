@@ -1,0 +1,1003 @@
+[
+  {
+    "_id": "5f0ee8378aa15a468c55ce88",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/a24ee3fd-f4ee-4930-8e3c-7d3b587c236a-horn-flat.png",
+      "http://localhost:8080/public/pictures/accommodation/4f526e31-dfe3-4b1a-a45e-f0597afa7bcb-kitchen.png",
+      "http://localhost:8080/public/pictures/accommodation/d07ab1bb-3e8b-40e8-befe-7f9de493c618-robson-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/6ca06ab7-82b8-4d9c-b3e1-c15894d0fea2-shared-kitchen.png",
+      "http://localhost:8080/public/pictures/accommodation/a2a61578-62b5-4d61-b8f6-8a8e63026aa3-turner-flat.png"
+    ],
+    "user": "5f0ee8378aa15a468c55ce86",
+    "street": "Heßstraße",
+    "street_number": "71",
+    "zip_code": "80798",
+    "city": "5f0ee8368aa15a468c55ce77",
+    "country": "5f0ee8368aa15a468c55cda7",
+    "additional_information": "Nice small accommodation above ramen shop",
+    "size": 42,
+    "rent_per_month": 690,
+    "accommodation_description": "Hi all, i am going to stockholm for my exchange semester, if you want to trade apartment please contact me!",
+    "is_verified_by_landlord": true,
+    "verification_file": "http://localhost:8080/files/verifications/accommodation/e03dfd4f-79de-4f3c-8417-c8788600876a-test.pdf",
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce8a",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/8c2b4aab-a117-472d-9a41-1b5ffc4054ae-atkinson-twin-2.png",
+      "http://localhost:8080/public/pictures/accommodation/99d424b5-c3dd-40ac-9bfe-e4f85dd451b7-bellamy-studio.png",
+      "http://localhost:8080/public/pictures/accommodation/3dee839e-d5db-451f-a113-bdbefb46c0f4-bronte-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/89da984b-d3bf-4da2-9cbe-5269c3a70d06-cookson-1.png",
+      "http://localhost:8080/public/pictures/accommodation/9eef0445-c66a-43b1-9b7e-95d3d0a56b5b-cookson-2.png"
+    ],
+    "user": "5f0ee8378aa15a468c55ce88",
+    "street": "Lützengatan II",
+    "street_number": "4 A",
+    "zip_code": "11520 AB",
+    "city": "5f0ee8368aa15a468c55ce75",
+    "country": "5f0ee8368aa15a468c55cda8",
+    "additional_information": "Some accommodation in stockholm",
+    "size": 100,
+    "rent_per_month": 1500,
+    "accommodation_description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "is_verified_by_landlord": true,
+    "verification_file": "http://localhost:8080/files/verifications/accommodation/e03dfd4f-79de-4f3c-8417-c8788600876a-test.pdf",
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce89",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/8c2b4aab-a117-472d-9a41-1b5ffc4054ae-atkinson-twin-2.png",
+      "http://localhost:8080/public/pictures/accommodation/99d424b5-c3dd-40ac-9bfe-e4f85dd451b7-bellamy-studio.png",
+      "http://localhost:8080/public/pictures/accommodation/3dee839e-d5db-451f-a113-bdbefb46c0f4-bronte-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/89da984b-d3bf-4da2-9cbe-5269c3a70d06-cookson-1.png",
+      "http://localhost:8080/public/pictures/accommodation/9eef0445-c66a-43b1-9b7e-95d3d0a56b5b-cookson-2.png"
+    ],
+    "user": "5f0ee8378aa15a468c55ce87",
+    "street": "Lützengatan",
+    "street_number": "4",
+    "zip_code": "11520",
+    "city": "5f0ee8368aa15a468c55ce75",
+    "country": "5f0ee8368aa15a468c55cda8",
+    "additional_information": "Nice big accommodation above sushi bar",
+    "size": 121,
+    "rent_per_month": 1800,
+    "accommodation_description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "is_verified_by_landlord": false,
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce90",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/8c2b4aab-a117-472d-9a41-1b5ffc4054ae-atkinson-twin-2.png",
+      "http://localhost:8080/public/pictures/accommodation/99d424b5-c3dd-40ac-9bfe-e4f85dd451b7-bellamy-studio.png",
+      "http://localhost:8080/public/pictures/accommodation/3dee839e-d5db-451f-a113-bdbefb46c0f4-bronte-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/89da984b-d3bf-4da2-9cbe-5269c3a70d06-cookson-1.png",
+      "http://localhost:8080/public/pictures/accommodation/9eef0445-c66a-43b1-9b7e-95d3d0a56b5b-cookson-2.png"
+    ],
+    "user": "5f0ee8378aa15a468c55ce89",
+    "street": "Lützengatan",
+    "street_number": "4",
+    "zip_code": "11520",
+    "city": "5f0ee8368aa15a468c55ce75",
+    "country": "5f0ee8368aa15a468c55cda8",
+    "additional_information": "Lorem ipsum dolor sit amet",
+    "size": 22,
+    "rent_per_month": 300,
+    "accommodation_description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "is_verified_by_landlord": false,
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce91",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/8c2b4aab-a117-472d-9a41-1b5ffc4054ae-atkinson-twin-2.png",
+      "http://localhost:8080/public/pictures/accommodation/99d424b5-c3dd-40ac-9bfe-e4f85dd451b7-bellamy-studio.png",
+      "http://localhost:8080/public/pictures/accommodation/3dee839e-d5db-451f-a113-bdbefb46c0f4-bronte-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/89da984b-d3bf-4da2-9cbe-5269c3a70d06-cookson-1.png",
+      "http://localhost:8080/public/pictures/accommodation/9eef0445-c66a-43b1-9b7e-95d3d0a56b5b-cookson-2.png"
+    ],
+    "user": "5f0ee8378aa15a468c55ce90",
+    "street": "Lützengatan",
+    "street_number": "4",
+    "zip_code": "11520",
+    "city": "5f0ee8368aa15a468c55ce75",
+    "country": "5f0ee8368aa15a468c55cda8",
+    "additional_information": "Lorem ipsum dolor sit amet",
+    "size": 39,
+    "rent_per_month": 550,
+    "accommodation_description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "is_verified_by_landlord": false,
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce92",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/8c2b4aab-a117-472d-9a41-1b5ffc4054ae-atkinson-twin-2.png",
+      "http://localhost:8080/public/pictures/accommodation/99d424b5-c3dd-40ac-9bfe-e4f85dd451b7-bellamy-studio.png",
+      "http://localhost:8080/public/pictures/accommodation/3dee839e-d5db-451f-a113-bdbefb46c0f4-bronte-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/89da984b-d3bf-4da2-9cbe-5269c3a70d06-cookson-1.png",
+      "http://localhost:8080/public/pictures/accommodation/9eef0445-c66a-43b1-9b7e-95d3d0a56b5b-cookson-2.png"
+    ],
+    "user": "5f0ee8378aa15a468c55ce91",
+    "street": "Lützengatan",
+    "street_number": "4",
+    "zip_code": "11520",
+    "city": "5f0ee8368aa15a468c55ce75",
+    "country": "5f0ee8368aa15a468c55cda8",
+    "additional_information": "Lorem ipsum dolor sit amet",
+    "size": 66,
+    "rent_per_month": 344,
+    "accommodation_description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "is_verified_by_landlord": false,
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce93",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/8c2b4aab-a117-472d-9a41-1b5ffc4054ae-atkinson-twin-2.png",
+      "http://localhost:8080/public/pictures/accommodation/99d424b5-c3dd-40ac-9bfe-e4f85dd451b7-bellamy-studio.png",
+      "http://localhost:8080/public/pictures/accommodation/3dee839e-d5db-451f-a113-bdbefb46c0f4-bronte-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/89da984b-d3bf-4da2-9cbe-5269c3a70d06-cookson-1.png",
+      "http://localhost:8080/public/pictures/accommodation/9eef0445-c66a-43b1-9b7e-95d3d0a56b5b-cookson-2.png"
+    ],
+    "user": "5f0ee8378aa15a468c55ce92",
+    "street": "Lützengatan",
+    "street_number": "4",
+    "zip_code": "11520",
+    "city": "5f0ee8368aa15a468c55ce75",
+    "country": "5f0ee8368aa15a468c55cda8",
+    "additional_information": "Lorem ipsum dolor sit amet",
+    "size": 200,
+    "rent_per_month": 2000,
+    "accommodation_description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "is_verified_by_landlord": false,
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce94",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/8c2b4aab-a117-472d-9a41-1b5ffc4054ae-atkinson-twin-2.png",
+      "http://localhost:8080/public/pictures/accommodation/99d424b5-c3dd-40ac-9bfe-e4f85dd451b7-bellamy-studio.png",
+      "http://localhost:8080/public/pictures/accommodation/3dee839e-d5db-451f-a113-bdbefb46c0f4-bronte-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/89da984b-d3bf-4da2-9cbe-5269c3a70d06-cookson-1.png",
+      "http://localhost:8080/public/pictures/accommodation/9eef0445-c66a-43b1-9b7e-95d3d0a56b5b-cookson-2.png"
+    ],
+    "user": "5f0ee8378aa15a468c55ce93",
+    "street": "Lützengatan",
+    "street_number": "4",
+    "zip_code": "11520",
+    "city": "5f0ee8368aa15a468c55ce75",
+    "country": "5f0ee8368aa15a468c55cda8",
+    "additional_information": "Lorem ipsum dolor sit amet",
+    "size": 444,
+    "rent_per_month": 333,
+    "accommodation_description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "is_verified_by_landlord": false,
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce95",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/8c2b4aab-a117-472d-9a41-1b5ffc4054ae-atkinson-twin-2.png",
+      "http://localhost:8080/public/pictures/accommodation/99d424b5-c3dd-40ac-9bfe-e4f85dd451b7-bellamy-studio.png",
+      "http://localhost:8080/public/pictures/accommodation/3dee839e-d5db-451f-a113-bdbefb46c0f4-bronte-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/89da984b-d3bf-4da2-9cbe-5269c3a70d06-cookson-1.png",
+      "http://localhost:8080/public/pictures/accommodation/9eef0445-c66a-43b1-9b7e-95d3d0a56b5b-cookson-2.png"
+    ],
+    "user": "5f0ee8378aa15a468c55ce94",
+    "street": "Lützengatan",
+    "street_number": "4",
+    "zip_code": "11520",
+    "city": "5f0ee8368aa15a468c55ce75",
+    "country": "5f0ee8368aa15a468c55cda8",
+    "additional_information": "Lorem ipsum dolor sit amet",
+    "size": 21,
+    "rent_per_month": 800,
+    "accommodation_description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "is_verified_by_landlord": false,
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce96",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/8c2b4aab-a117-472d-9a41-1b5ffc4054ae-atkinson-twin-2.png",
+      "http://localhost:8080/public/pictures/accommodation/99d424b5-c3dd-40ac-9bfe-e4f85dd451b7-bellamy-studio.png",
+      "http://localhost:8080/public/pictures/accommodation/3dee839e-d5db-451f-a113-bdbefb46c0f4-bronte-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/89da984b-d3bf-4da2-9cbe-5269c3a70d06-cookson-1.png",
+      "http://localhost:8080/public/pictures/accommodation/9eef0445-c66a-43b1-9b7e-95d3d0a56b5b-cookson-2.png"
+    ],
+    "user": "5f0ee8378aa15a468c55ce95",
+    "street": "Lützengatan",
+    "street_number": "4",
+    "zip_code": "11520",
+    "city": "5f0ee8368aa15a468c55ce75",
+    "country": "5f0ee8368aa15a468c55cda8",
+    "additional_information": "Lorem ipsum dolor sit amet",
+    "size": 11,
+    "rent_per_month": 300,
+    "accommodation_description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "is_verified_by_landlord": false,
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce97",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/a24ee3fd-f4ee-4930-8e3c-7d3b587c236a-horn-flat.png",
+      "http://localhost:8080/public/pictures/accommodation/4f526e31-dfe3-4b1a-a45e-f0597afa7bcb-kitchen.png",
+      "http://localhost:8080/public/pictures/accommodation/d07ab1bb-3e8b-40e8-befe-7f9de493c618-robson-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/6ca06ab7-82b8-4d9c-b3e1-c15894d0fea2-shared-kitchen.png",
+      "http://localhost:8080/public/pictures/accommodation/a2a61578-62b5-4d61-b8f6-8a8e63026aa3-turner-flat.png"
+    ],
+    "user": "5f0ee8378aa15a468c55ce96",
+    "street": "Heßstraße",
+    "street_number": "71",
+    "zip_code": "80798",
+    "city": "5f0ee8368aa15a468c55ce77",
+    "country": "5f0ee8368aa15a468c55cda7",
+    "additional_information": "Dummy munich accommodation",
+    "size": 33,
+    "rent_per_month": 800,
+    "accommodation_description": "Lorem ipsum ist ein pseudo-Lateinischer Text für Webdesign, Typografie, Layout und Printmedien. Er ersetzt Deutsch um Designelemente gegenüber dem Inhalt hervorzuheben, hat also die Funktion als Platzhalters in Layouts um dem Betrachter eine vorläufige Vorstellung der endgültigen Fassung zu vermitteln. Buchstaben, Worte, Wort- und Satzlängen bilden ungefähr das Schriftbild eines lateinischen Texts wieder.",
+    "is_verified_by_landlord": true,
+    "verification_file": "http://localhost:8080/files/verifications/accommodation/e03dfd4f-79de-4f3c-8417-c8788600876a-test.pdf",
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce98",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/a24ee3fd-f4ee-4930-8e3c-7d3b587c236a-horn-flat.png",
+      "http://localhost:8080/public/pictures/accommodation/4f526e31-dfe3-4b1a-a45e-f0597afa7bcb-kitchen.png",
+      "http://localhost:8080/public/pictures/accommodation/d07ab1bb-3e8b-40e8-befe-7f9de493c618-robson-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/6ca06ab7-82b8-4d9c-b3e1-c15894d0fea2-shared-kitchen.png",
+      "http://localhost:8080/public/pictures/accommodation/a2a61578-62b5-4d61-b8f6-8a8e63026aa3-turner-flat.png"
+    ],
+    "user": "5f0ee8378aa15a468c55ce97",
+    "street": "Heßstraße",
+    "street_number": "71",
+    "zip_code": "80798",
+    "city": "5f0ee8368aa15a468c55ce77",
+    "country": "5f0ee8368aa15a468c55cda7",
+    "additional_information": "Dummy munich accommodation",
+    "size": 22,
+    "rent_per_month": 900,
+    "accommodation_description": "Lorem ipsum ist ein pseudo-Lateinischer Text für Webdesign, Typografie, Layout und Printmedien. Er ersetzt Deutsch um Designelemente gegenüber dem Inhalt hervorzuheben, hat also die Funktion als Platzhalters in Layouts um dem Betrachter eine vorläufige Vorstellung der endgültigen Fassung zu vermitteln. Buchstaben, Worte, Wort- und Satzlängen bilden ungefähr das Schriftbild eines lateinischen Texts wieder.",
+    "is_verified_by_landlord": false,
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce99",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/a24ee3fd-f4ee-4930-8e3c-7d3b587c236a-horn-flat.png",
+      "http://localhost:8080/public/pictures/accommodation/4f526e31-dfe3-4b1a-a45e-f0597afa7bcb-kitchen.png",
+      "http://localhost:8080/public/pictures/accommodation/d07ab1bb-3e8b-40e8-befe-7f9de493c618-robson-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/6ca06ab7-82b8-4d9c-b3e1-c15894d0fea2-shared-kitchen.png",
+      "http://localhost:8080/public/pictures/accommodation/a2a61578-62b5-4d61-b8f6-8a8e63026aa3-turner-flat.png"
+    ],
+    "user": "5f0ee8378aa15a468c55ce98",
+    "street": "Heßstraße",
+    "street_number": "71",
+    "zip_code": "80798",
+    "city": "5f0ee8368aa15a468c55ce77",
+    "country": "5f0ee8368aa15a468c55cda7",
+    "additional_information": "Dummy munich accommodation",
+    "size": 77,
+    "rent_per_month": 666,
+    "accommodation_description": "Lorem ipsum ist ein pseudo-Lateinischer Text für Webdesign, Typografie, Layout und Printmedien. Er ersetzt Deutsch um Designelemente gegenüber dem Inhalt hervorzuheben, hat also die Funktion als Platzhalters in Layouts um dem Betrachter eine vorläufige Vorstellung der endgültigen Fassung zu vermitteln. Buchstaben, Worte, Wort- und Satzlängen bilden ungefähr das Schriftbild eines lateinischen Texts wieder.",
+    "is_verified_by_landlord": true,
+    "verification_file": "http://localhost:8080/files/verifications/accommodation/e03dfd4f-79de-4f3c-8417-c8788600876a-test.pdf",
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf01",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/a24ee3fd-f4ee-4930-8e3c-7d3b587c236a-horn-flat.png",
+      "http://localhost:8080/public/pictures/accommodation/4f526e31-dfe3-4b1a-a45e-f0597afa7bcb-kitchen.png",
+      "http://localhost:8080/public/pictures/accommodation/d07ab1bb-3e8b-40e8-befe-7f9de493c618-robson-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/6ca06ab7-82b8-4d9c-b3e1-c15894d0fea2-shared-kitchen.png",
+      "http://localhost:8080/public/pictures/accommodation/a2a61578-62b5-4d61-b8f6-8a8e63026aa3-turner-flat.png"
+    ],
+    "user": "5f0ee8378aa15a468c55ce99",
+    "street": "Heßstraße",
+    "street_number": "71",
+    "zip_code": "80798",
+    "city": "5f0ee8368aa15a468c55ce77",
+    "country": "5f0ee8368aa15a468c55cda7",
+    "additional_information": "Dummy munich accommodation",
+    "size": 56,
+    "rent_per_month": 1020,
+    "accommodation_description": "Lorem ipsum ist ein pseudo-Lateinischer Text für Webdesign, Typografie, Layout und Printmedien. Er ersetzt Deutsch um Designelemente gegenüber dem Inhalt hervorzuheben, hat also die Funktion als Platzhalters in Layouts um dem Betrachter eine vorläufige Vorstellung der endgültigen Fassung zu vermitteln. Buchstaben, Worte, Wort- und Satzlängen bilden ungefähr das Schriftbild eines lateinischen Texts wieder.",
+    "is_verified_by_landlord": true,
+    "verification_file": "http://localhost:8080/files/verifications/accommodation/e03dfd4f-79de-4f3c-8417-c8788600876a-test.pdf",
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf02",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/a24ee3fd-f4ee-4930-8e3c-7d3b587c236a-horn-flat.png",
+      "http://localhost:8080/public/pictures/accommodation/4f526e31-dfe3-4b1a-a45e-f0597afa7bcb-kitchen.png",
+      "http://localhost:8080/public/pictures/accommodation/d07ab1bb-3e8b-40e8-befe-7f9de493c618-robson-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/6ca06ab7-82b8-4d9c-b3e1-c15894d0fea2-shared-kitchen.png",
+      "http://localhost:8080/public/pictures/accommodation/a2a61578-62b5-4d61-b8f6-8a8e63026aa3-turner-flat.png"
+    ],
+    "user": "5f0ee8378aa15a468c55cf01",
+    "street": "Heßstraße",
+    "street_number": "71",
+    "zip_code": "80798",
+    "city": "5f0ee8368aa15a468c55ce77",
+    "country": "5f0ee8368aa15a468c55cda7",
+    "additional_information": "Dummy munich accommodation",
+    "size": 66,
+    "rent_per_month": 900,
+    "accommodation_description": "Lorem ipsum ist ein pseudo-Lateinischer Text für Webdesign, Typografie, Layout und Printmedien. Er ersetzt Deutsch um Designelemente gegenüber dem Inhalt hervorzuheben, hat also die Funktion als Platzhalters in Layouts um dem Betrachter eine vorläufige Vorstellung der endgültigen Fassung zu vermitteln. Buchstaben, Worte, Wort- und Satzlängen bilden ungefähr das Schriftbild eines lateinischen Texts wieder.",
+    "is_verified_by_landlord": false,
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf03",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/8c2b4aab-a117-472d-9a41-1b5ffc4054ae-atkinson-twin-2.png",
+      "http://localhost:8080/public/pictures/accommodation/99d424b5-c3dd-40ac-9bfe-e4f85dd451b7-bellamy-studio.png",
+      "http://localhost:8080/public/pictures/accommodation/3dee839e-d5db-451f-a113-bdbefb46c0f4-bronte-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/89da984b-d3bf-4da2-9cbe-5269c3a70d06-cookson-1.png",
+      "http://localhost:8080/public/pictures/accommodation/9eef0445-c66a-43b1-9b7e-95d3d0a56b5b-cookson-2.png"
+    ],
+    "user": "5f0ee8378aa15a468c55cf02",
+    "street": "Blixgatan",
+    "street_number": "5",
+    "zip_code": "11520",
+    "city": "5f0ee8368aa15a468c55ce76",
+    "country": "5f0ee8368aa15a468c55cda8",
+    "additional_information": "Lorem ipsum dolor sit amet",
+    "size": 22,
+    "rent_per_month": 300,
+    "accommodation_description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "is_verified_by_landlord": true,
+    "verification_file": "http://localhost:8080/files/verifications/accommodation/e03dfd4f-79de-4f3c-8417-c8788600876a-test.pdf",
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf04",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/8c2b4aab-a117-472d-9a41-1b5ffc4054ae-atkinson-twin-2.png",
+      "http://localhost:8080/public/pictures/accommodation/99d424b5-c3dd-40ac-9bfe-e4f85dd451b7-bellamy-studio.png",
+      "http://localhost:8080/public/pictures/accommodation/3dee839e-d5db-451f-a113-bdbefb46c0f4-bronte-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/89da984b-d3bf-4da2-9cbe-5269c3a70d06-cookson-1.png",
+      "http://localhost:8080/public/pictures/accommodation/9eef0445-c66a-43b1-9b7e-95d3d0a56b5b-cookson-2.png"
+    ],
+    "user": "5f0ee8378aa15a468c55ceff",
+    "street": "Blixgatan",
+    "street_number": "6",
+    "zip_code": "11520",
+    "city": "5f0ee8368aa15a468c55ce76",
+    "country": "5f0ee8368aa15a468c55cda8",
+    "additional_information": "Lorem ipsum dolor sit amet",
+    "size": 39,
+    "rent_per_month": 550,
+    "accommodation_description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "is_verified_by_landlord": false,
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf05",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/8c2b4aab-a117-472d-9a41-1b5ffc4054ae-atkinson-twin-2.png",
+      "http://localhost:8080/public/pictures/accommodation/99d424b5-c3dd-40ac-9bfe-e4f85dd451b7-bellamy-studio.png",
+      "http://localhost:8080/public/pictures/accommodation/3dee839e-d5db-451f-a113-bdbefb46c0f4-bronte-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/89da984b-d3bf-4da2-9cbe-5269c3a70d06-cookson-1.png",
+      "http://localhost:8080/public/pictures/accommodation/9eef0445-c66a-43b1-9b7e-95d3d0a56b5b-cookson-2.png"
+    ],
+    "user": "5f0ee8378aa15a468c55cf03",
+    "street": "Blixgatan",
+    "street_number": "7",
+    "zip_code": "11520",
+    "city": "5f0ee8368aa15a468c55ce76",
+    "country": "5f0ee8368aa15a468c55cda8",
+    "additional_information": "Lorem ipsum dolor sit amet",
+    "size": 66,
+    "rent_per_month": 344,
+    "accommodation_description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "is_verified_by_landlord": false,
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf06",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/8c2b4aab-a117-472d-9a41-1b5ffc4054ae-atkinson-twin-2.png",
+      "http://localhost:8080/public/pictures/accommodation/99d424b5-c3dd-40ac-9bfe-e4f85dd451b7-bellamy-studio.png",
+      "http://localhost:8080/public/pictures/accommodation/3dee839e-d5db-451f-a113-bdbefb46c0f4-bronte-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/89da984b-d3bf-4da2-9cbe-5269c3a70d06-cookson-1.png",
+      "http://localhost:8080/public/pictures/accommodation/9eef0445-c66a-43b1-9b7e-95d3d0a56b5b-cookson-2.png"
+    ],
+    "user": "5f0ee8378aa15a468c55cf04",
+    "street": "Blixgatan",
+    "street_number": "8",
+    "zip_code": "11520",
+    "city": "5f0ee8368aa15a468c55ce76",
+    "country": "5f0ee8368aa15a468c55cda8",
+    "additional_information": "Lorem ipsum dolor sit amet",
+    "size": 200,
+    "rent_per_month": 2000,
+    "accommodation_description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "is_verified_by_landlord": false,
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf07",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/8c2b4aab-a117-472d-9a41-1b5ffc4054ae-atkinson-twin-2.png",
+      "http://localhost:8080/public/pictures/accommodation/99d424b5-c3dd-40ac-9bfe-e4f85dd451b7-bellamy-studio.png",
+      "http://localhost:8080/public/pictures/accommodation/3dee839e-d5db-451f-a113-bdbefb46c0f4-bronte-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/89da984b-d3bf-4da2-9cbe-5269c3a70d06-cookson-1.png",
+      "http://localhost:8080/public/pictures/accommodation/9eef0445-c66a-43b1-9b7e-95d3d0a56b5b-cookson-2.png"
+    ],
+    "user": "5f0ee8378aa15a468c55cf05",
+    "street": "Blixgatan",
+    "street_number": "9",
+    "zip_code": "11520",
+    "city": "5f0ee8368aa15a468c55ce76",
+    "country": "5f0ee8368aa15a468c55cda8",
+    "additional_information": "Lorem ipsum dolor sit amet",
+    "size": 444,
+    "rent_per_month": 333,
+    "accommodation_description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "is_verified_by_landlord": true,
+    "verification_file": "http://localhost:8080/files/verifications/accommodation/e03dfd4f-79de-4f3c-8417-c8788600876a-test.pdf",
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf08",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/8c2b4aab-a117-472d-9a41-1b5ffc4054ae-atkinson-twin-2.png",
+      "http://localhost:8080/public/pictures/accommodation/99d424b5-c3dd-40ac-9bfe-e4f85dd451b7-bellamy-studio.png",
+      "http://localhost:8080/public/pictures/accommodation/3dee839e-d5db-451f-a113-bdbefb46c0f4-bronte-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/89da984b-d3bf-4da2-9cbe-5269c3a70d06-cookson-1.png",
+      "http://localhost:8080/public/pictures/accommodation/9eef0445-c66a-43b1-9b7e-95d3d0a56b5b-cookson-2.png"
+    ],
+    "user": "5f0ee8378aa15a468c55cf06",
+    "street": "Blixgatan",
+    "street_number": "10",
+    "zip_code": "11520",
+    "city": "5f0ee8368aa15a468c55ce76",
+    "country": "5f0ee8368aa15a468c55cda8",
+    "additional_information": "Lorem ipsum dolor sit amet",
+    "size": 21,
+    "rent_per_month": 800,
+    "accommodation_description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "is_verified_by_landlord": false,
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf09",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/8c2b4aab-a117-472d-9a41-1b5ffc4054ae-atkinson-twin-2.png",
+      "http://localhost:8080/public/pictures/accommodation/99d424b5-c3dd-40ac-9bfe-e4f85dd451b7-bellamy-studio.png",
+      "http://localhost:8080/public/pictures/accommodation/3dee839e-d5db-451f-a113-bdbefb46c0f4-bronte-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/89da984b-d3bf-4da2-9cbe-5269c3a70d06-cookson-1.png",
+      "http://localhost:8080/public/pictures/accommodation/9eef0445-c66a-43b1-9b7e-95d3d0a56b5b-cookson-2.png"
+    ],
+    "user": "5f0ee8378aa15a468c55cf07",
+    "street": "Blixgatan",
+    "street_number": "11",
+    "zip_code": "11520",
+    "city": "5f0ee8368aa15a468c55ce76",
+    "country": "5f0ee8368aa15a468c55cda8",
+    "additional_information": "Lorem ipsum dolor sit amet",
+    "size": 11,
+    "rent_per_month": 300,
+    "accommodation_description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "is_verified_by_landlord": false,
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf10",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/a24ee3fd-f4ee-4930-8e3c-7d3b587c236a-horn-flat.png",
+      "http://localhost:8080/public/pictures/accommodation/4f526e31-dfe3-4b1a-a45e-f0597afa7bcb-kitchen.png",
+      "http://localhost:8080/public/pictures/accommodation/d07ab1bb-3e8b-40e8-befe-7f9de493c618-robson-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/6ca06ab7-82b8-4d9c-b3e1-c15894d0fea2-shared-kitchen.png",
+      "http://localhost:8080/public/pictures/accommodation/a2a61578-62b5-4d61-b8f6-8a8e63026aa3-turner-flat.png"
+    ],
+    "user": "5f0ee8378aa15a468c55cf08",
+    "street": "Heßstraße",
+    "street_number": "71",
+    "zip_code": "80798",
+    "city": "5f0ee8368aa15a468c55ce78",
+    "country": "5f0ee8368aa15a468c55cda7",
+    "additional_information": "Dummy berlin accommodation",
+    "size": 33,
+    "rent_per_month": 800,
+    "accommodation_description": "Lorem ipsum ist ein pseudo-Lateinischer Text für Webdesign, Typografie, Layout und Printmedien. Er ersetzt Deutsch um Designelemente gegenüber dem Inhalt hervorzuheben, hat also die Funktion als Platzhalters in Layouts um dem Betrachter eine vorläufige Vorstellung der endgültigen Fassung zu vermitteln. Buchstaben, Worte, Wort- und Satzlängen bilden ungefähr das Schriftbild eines lateinischen Texts wieder.",
+    "is_verified_by_landlord": true,
+    "verification_file": "http://localhost:8080/files/verifications/accommodation/e03dfd4f-79de-4f3c-8417-c8788600876a-test.pdf",
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf11",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/a24ee3fd-f4ee-4930-8e3c-7d3b587c236a-horn-flat.png",
+      "http://localhost:8080/public/pictures/accommodation/4f526e31-dfe3-4b1a-a45e-f0597afa7bcb-kitchen.png",
+      "http://localhost:8080/public/pictures/accommodation/d07ab1bb-3e8b-40e8-befe-7f9de493c618-robson-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/6ca06ab7-82b8-4d9c-b3e1-c15894d0fea2-shared-kitchen.png",
+      "http://localhost:8080/public/pictures/accommodation/a2a61578-62b5-4d61-b8f6-8a8e63026aa3-turner-flat.png"
+    ],
+    "user": "5f0ee8378aa15a468c55cf09",
+    "street": "Heßstraße",
+    "street_number": "71",
+    "zip_code": "80798",
+    "city": "5f0ee8368aa15a468c55ce78",
+    "country": "5f0ee8368aa15a468c55cda7",
+    "additional_information": "Dummy berlin accommodation",
+    "size": 22,
+    "rent_per_month": 900,
+    "accommodation_description": "Lorem ipsum ist ein pseudo-Lateinischer Text für Webdesign, Typografie, Layout und Printmedien. Er ersetzt Deutsch um Designelemente gegenüber dem Inhalt hervorzuheben, hat also die Funktion als Platzhalters in Layouts um dem Betrachter eine vorläufige Vorstellung der endgültigen Fassung zu vermitteln. Buchstaben, Worte, Wort- und Satzlängen bilden ungefähr das Schriftbild eines lateinischen Texts wieder.",
+    "is_verified_by_landlord": false,
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf12",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/a24ee3fd-f4ee-4930-8e3c-7d3b587c236a-horn-flat.png",
+      "http://localhost:8080/public/pictures/accommodation/4f526e31-dfe3-4b1a-a45e-f0597afa7bcb-kitchen.png",
+      "http://localhost:8080/public/pictures/accommodation/d07ab1bb-3e8b-40e8-befe-7f9de493c618-robson-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/6ca06ab7-82b8-4d9c-b3e1-c15894d0fea2-shared-kitchen.png",
+      "http://localhost:8080/public/pictures/accommodation/a2a61578-62b5-4d61-b8f6-8a8e63026aa3-turner-flat.png"
+    ],
+    "user": "5f0ee8378aa15a468c55cf10",
+    "street": "Heßstraße",
+    "street_number": "71",
+    "zip_code": "80798",
+    "city": "5f0ee8368aa15a468c55ce78",
+    "country": "5f0ee8368aa15a468c55cda7",
+    "additional_information": "Dummy berlin accommodation",
+    "size": 77,
+    "rent_per_month": 666,
+    "accommodation_description": "Lorem ipsum ist ein pseudo-Lateinischer Text für Webdesign, Typografie, Layout und Printmedien. Er ersetzt Deutsch um Designelemente gegenüber dem Inhalt hervorzuheben, hat also die Funktion als Platzhalters in Layouts um dem Betrachter eine vorläufige Vorstellung der endgültigen Fassung zu vermitteln. Buchstaben, Worte, Wort- und Satzlängen bilden ungefähr das Schriftbild eines lateinischen Texts wieder.",
+    "is_verified_by_landlord": true,
+    "verification_file": "http://localhost:8080/files/verifications/accommodation/e03dfd4f-79de-4f3c-8417-c8788600876a-test.pdf",
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf13",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/a24ee3fd-f4ee-4930-8e3c-7d3b587c236a-horn-flat.png",
+      "http://localhost:8080/public/pictures/accommodation/4f526e31-dfe3-4b1a-a45e-f0597afa7bcb-kitchen.png",
+      "http://localhost:8080/public/pictures/accommodation/d07ab1bb-3e8b-40e8-befe-7f9de493c618-robson-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/6ca06ab7-82b8-4d9c-b3e1-c15894d0fea2-shared-kitchen.png",
+      "http://localhost:8080/public/pictures/accommodation/a2a61578-62b5-4d61-b8f6-8a8e63026aa3-turner-flat.png"
+    ],
+    "user": "5f0ee8378aa15a468c55cf11",
+    "street": "Heßstraße",
+    "street_number": "71",
+    "zip_code": "80798",
+    "city": "5f0ee8368aa15a468c55ce78",
+    "country": "5f0ee8368aa15a468c55cda7",
+    "additional_information": "Dummy berlin accommodation",
+    "size": 56,
+    "rent_per_month": 1020,
+    "accommodation_description": "Lorem ipsum ist ein pseudo-Lateinischer Text für Webdesign, Typografie, Layout und Printmedien. Er ersetzt Deutsch um Designelemente gegenüber dem Inhalt hervorzuheben, hat also die Funktion als Platzhalters in Layouts um dem Betrachter eine vorläufige Vorstellung der endgültigen Fassung zu vermitteln. Buchstaben, Worte, Wort- und Satzlängen bilden ungefähr das Schriftbild eines lateinischen Texts wieder.",
+    "is_verified_by_landlord": true,
+    "verification_file": "http://localhost:8080/files/verifications/accommodation/e03dfd4f-79de-4f3c-8417-c8788600876a-test.pdf",
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf14",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/a24ee3fd-f4ee-4930-8e3c-7d3b587c236a-horn-flat.png",
+      "http://localhost:8080/public/pictures/accommodation/4f526e31-dfe3-4b1a-a45e-f0597afa7bcb-kitchen.png",
+      "http://localhost:8080/public/pictures/accommodation/d07ab1bb-3e8b-40e8-befe-7f9de493c618-robson-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/6ca06ab7-82b8-4d9c-b3e1-c15894d0fea2-shared-kitchen.png",
+      "http://localhost:8080/public/pictures/accommodation/a2a61578-62b5-4d61-b8f6-8a8e63026aa3-turner-flat.png"
+    ],
+    "user": "5f0ee8378aa15a468c55cf12",
+    "street": "Heßstraße",
+    "street_number": "71",
+    "zip_code": "80798",
+    "city": "5f0ee8368aa15a468c55ce78",
+    "country": "5f0ee8368aa15a468c55cda7",
+    "additional_information": "Dummy berlin accommodation",
+    "size": 66,
+    "rent_per_month": 900,
+    "accommodation_description": "Lorem ipsum ist ein pseudo-Lateinischer Text für Webdesign, Typografie, Layout und Printmedien. Er ersetzt Deutsch um Designelemente gegenüber dem Inhalt hervorzuheben, hat also die Funktion als Platzhalters in Layouts um dem Betrachter eine vorläufige Vorstellung der endgültigen Fassung zu vermitteln. Buchstaben, Worte, Wort- und Satzlängen bilden ungefähr das Schriftbild eines lateinischen Texts wieder.",
+    "is_verified_by_landlord": false,
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf15",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/a24ee3fd-f4ee-4930-8e3c-7d3b587c236a-horn-flat.png",
+      "http://localhost:8080/public/pictures/accommodation/4f526e31-dfe3-4b1a-a45e-f0597afa7bcb-kitchen.png",
+      "http://localhost:8080/public/pictures/accommodation/d07ab1bb-3e8b-40e8-befe-7f9de493c618-robson-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/6ca06ab7-82b8-4d9c-b3e1-c15894d0fea2-shared-kitchen.png",
+      "http://localhost:8080/public/pictures/accommodation/a2a61578-62b5-4d61-b8f6-8a8e63026aa3-turner-flat.png"
+    ],
+    "user": "5f0ee8378aa15a468c55cf13",
+    "street": "Heßstraße",
+    "street_number": "71",
+    "zip_code": "80798",
+    "city": "5f0ee8368aa15a468c55ce77",
+    "country": "5f0ee8368aa15a468c55cda7",
+    "additional_information": "Im going to Gothenburg",
+    "size": 33,
+    "rent_per_month": 800,
+    "accommodation_description": "Lorem ipsum ist ein pseudo-Lateinischer Text für Webdesign, Typografie, Layout und Printmedien. Er ersetzt Deutsch um Designelemente gegenüber dem Inhalt hervorzuheben, hat also die Funktion als Platzhalters in Layouts um dem Betrachter eine vorläufige Vorstellung der endgültigen Fassung zu vermitteln. Buchstaben, Worte, Wort- und Satzlängen bilden ungefähr das Schriftbild eines lateinischen Texts wieder.",
+    "is_verified_by_landlord": true,
+    "verification_file": "http://localhost:8080/files/verifications/accommodation/e03dfd4f-79de-4f3c-8417-c8788600876a-test.pdf",
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf16",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/a24ee3fd-f4ee-4930-8e3c-7d3b587c236a-horn-flat.png",
+      "http://localhost:8080/public/pictures/accommodation/4f526e31-dfe3-4b1a-a45e-f0597afa7bcb-kitchen.png",
+      "http://localhost:8080/public/pictures/accommodation/d07ab1bb-3e8b-40e8-befe-7f9de493c618-robson-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/6ca06ab7-82b8-4d9c-b3e1-c15894d0fea2-shared-kitchen.png",
+      "http://localhost:8080/public/pictures/accommodation/a2a61578-62b5-4d61-b8f6-8a8e63026aa3-turner-flat.png"
+    ],
+    "user": "5f0ee8378aa15a468c55cf14",
+    "street": "Heßstraße",
+    "street_number": "72",
+    "zip_code": "80798",
+    "city": "5f0ee8368aa15a468c55ce77",
+    "country": "5f0ee8368aa15a468c55cda7",
+    "additional_information": "I'm going to Gothenburg too",
+    "size": 33,
+    "rent_per_month": 800,
+    "accommodation_description": "Lorem ipsum ist ein pseudo-Lateinischer Text für Webdesign, Typografie, Layout und Printmedien. Er ersetzt Deutsch um Designelemente gegenüber dem Inhalt hervorzuheben, hat also die Funktion als Platzhalters in Layouts um dem Betrachter eine vorläufige Vorstellung der endgültigen Fassung zu vermitteln. Buchstaben, Worte, Wort- und Satzlängen bilden ungefähr das Schriftbild eines lateinischen Texts wieder.",
+    "is_verified_by_landlord": true,
+    "verification_file": "http://localhost:8080/files/verifications/accommodation/e03dfd4f-79de-4f3c-8417-c8788600876a-test.pdf",
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf17",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/a24ee3fd-f4ee-4930-8e3c-7d3b587c236a-horn-flat.png",
+      "http://localhost:8080/public/pictures/accommodation/4f526e31-dfe3-4b1a-a45e-f0597afa7bcb-kitchen.png",
+      "http://localhost:8080/public/pictures/accommodation/d07ab1bb-3e8b-40e8-befe-7f9de493c618-robson-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/6ca06ab7-82b8-4d9c-b3e1-c15894d0fea2-shared-kitchen.png",
+      "http://localhost:8080/public/pictures/accommodation/a2a61578-62b5-4d61-b8f6-8a8e63026aa3-turner-flat.png"
+    ],
+    "user": "5f0ee8378aa15a468c55cf15",
+    "street": "Heßstraße",
+    "street_number": "73",
+    "zip_code": "80798",
+    "city": "5f0ee8368aa15a468c55ce77",
+    "country": "5f0ee8368aa15a468c55cda7",
+    "additional_information": "I'm going to Gothenburg!",
+    "size": 33,
+    "rent_per_month": 800,
+    "accommodation_description": "Lorem ipsum ist ein pseudo-Lateinischer Text für Webdesign, Typografie, Layout und Printmedien. Er ersetzt Deutsch um Designelemente gegenüber dem Inhalt hervorzuheben, hat also die Funktion als Platzhalters in Layouts um dem Betrachter eine vorläufige Vorstellung der endgültigen Fassung zu vermitteln. Buchstaben, Worte, Wort- und Satzlängen bilden ungefähr das Schriftbild eines lateinischen Texts wieder.",
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf18",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/8c2b4aab-a117-472d-9a41-1b5ffc4054ae-atkinson-twin-2.png",
+      "http://localhost:8080/public/pictures/accommodation/99d424b5-c3dd-40ac-9bfe-e4f85dd451b7-bellamy-studio.png",
+      "http://localhost:8080/public/pictures/accommodation/3dee839e-d5db-451f-a113-bdbefb46c0f4-bronte-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/89da984b-d3bf-4da2-9cbe-5269c3a70d06-cookson-1.png",
+      "http://localhost:8080/public/pictures/accommodation/9eef0445-c66a-43b1-9b7e-95d3d0a56b5b-cookson-2.png"
+    ],
+    "user": "5f0ee8378aa15a468c55cf16",
+    "street": "Lützengatan",
+    "street_number": "99",
+    "zip_code": "11520",
+    "city": "5f0ee8368aa15a468c55ce75",
+    "country": "5f0ee8368aa15a468c55cda8",
+    "additional_information": "I'm going to Berlin!",
+    "size": 22,
+    "rent_per_month": 300,
+    "accommodation_description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "is_verified_by_landlord": false,
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf19",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/8c2b4aab-a117-472d-9a41-1b5ffc4054ae-atkinson-twin-2.png",
+      "http://localhost:8080/public/pictures/accommodation/99d424b5-c3dd-40ac-9bfe-e4f85dd451b7-bellamy-studio.png",
+      "http://localhost:8080/public/pictures/accommodation/3dee839e-d5db-451f-a113-bdbefb46c0f4-bronte-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/89da984b-d3bf-4da2-9cbe-5269c3a70d06-cookson-1.png",
+      "http://localhost:8080/public/pictures/accommodation/9eef0445-c66a-43b1-9b7e-95d3d0a56b5b-cookson-2.png"
+    ],
+    "user": "5f0ee8378aa15a468c55cf17",
+    "street": "Lützengatan",
+    "street_number": "224",
+    "zip_code": "11520",
+    "city": "5f0ee8368aa15a468c55ce75",
+    "country": "5f0ee8368aa15a468c55cda8",
+    "additional_information": "Berlin here i come!",
+    "size": 39,
+    "rent_per_month": 550,
+    "accommodation_description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "is_verified_by_landlord": false,
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf20",
+    "pictures": [
+      "http://localhost:8080/public/pictures/accommodation/8c2b4aab-a117-472d-9a41-1b5ffc4054ae-atkinson-twin-2.png",
+      "http://localhost:8080/public/pictures/accommodation/99d424b5-c3dd-40ac-9bfe-e4f85dd451b7-bellamy-studio.png",
+      "http://localhost:8080/public/pictures/accommodation/3dee839e-d5db-451f-a113-bdbefb46c0f4-bronte-twin.png",
+      "http://localhost:8080/public/pictures/accommodation/89da984b-d3bf-4da2-9cbe-5269c3a70d06-cookson-1.png",
+      "http://localhost:8080/public/pictures/accommodation/9eef0445-c66a-43b1-9b7e-95d3d0a56b5b-cookson-2.png"
+    ],
+    "user": "5f0ee8378aa15a468c55cf18",
+    "street": "Lützengatan",
+    "street_number": "432",
+    "zip_code": "11520",
+    "city": "5f0ee8368aa15a468c55ce75",
+    "country": "5f0ee8368aa15a468c55cda8",
+    "additional_information": "Going to Berlin!",
+    "size": 66,
+    "rent_per_month": 344,
+    "accommodation_description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "is_verified_by_landlord": false,
+    "google_map": {
+      "center": {
+        "lat": 59.95,
+        "lng": 30.33
+      },
+      "zoom": 11
+    },
+    "is_active": true,
+    "__v": 0
+  }
+]

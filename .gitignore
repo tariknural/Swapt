@@ -1,0 +1,32 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/swapt-frontend/node_modules
+/swapt-frontend/.pnp
+/swapt-frontend/.pnp.js
+
+# testing
+/swapt-frontend/coverage
+
+# production
+/swapt-frontend/build
+
+# misc
+/swapt-frontend/.DS_Store
+/swapt-frontend/.env.local
+/swapt-frontend/.env.development.local
+/swapt-frontend/.env.test.local
+/swapt-frontend/.env.production.local
+/swapt-frontend/.idea
+
+/swapt-frontend/npm-debug.log*
+/swapt-frontend/yarn-debug.log*
+/swapt-frontend/yarn-error.log*
+
+#backend
+
+/swapt-backend/node_modules/
+/swapt-backend/package-lock.json
+/swapt-backend/public
+/swapt-backend/files
+/swapt-backend/.idea

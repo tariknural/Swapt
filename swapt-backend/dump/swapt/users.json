@@ -1,0 +1,645 @@
+[
+  {
+    "_id": "5f0ee8378aa15a468c55ce86",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "max.mustermann@tum.de",
+    "password": "$2a$08$ee6NYvPPsumH8G7dD/HSGepo.uQ8DqMQCggtDqW1yxI9IJtZ/2PtG",
+    "first_name": "Max",
+    "last_name": "Mustermann",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/4486f6b5-e05b-4ef7-99c7-9292d7653a49-male2.png",
+    "home_university": "5f0ee8378aa15a468c55ce7b",
+    "destination_university": "5f0ee8378aa15a468c55ce7e",
+    "home_city": "5f0ee8368aa15a468c55ce77",
+    "destination_city": "5f0ee8368aa15a468c55ce75",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": true,
+    "verification_file": "http://localhost:8080/files/verifications/profile/7d0751d8-fd72-49ef-a667-8607f43854d3-test.pdf",
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce87",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "sara.younggren@su.se",
+    "password": "$2a$08$N/yHLT/v.lQgWaVgjVbsjOdHQdJAcmSV4jCKfxi/pKfyOvHEjX40K",
+    "first_name": "Sara",
+    "last_name": "Younggren",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/f7eb3f47-140b-4bb1-a35b-2605889b56a9-female1.png",
+    "home_university": "5f0ee8378aa15a468c55ce7e",
+    "destination_university": "5f0ee8378aa15a468c55ce7b",
+    "home_city": "5f0ee8368aa15a468c55ce75",
+    "destination_city": "5f0ee8368aa15a468c55ce77",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": false,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce88",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "elsa.andersson@su.se",
+    "password": "$2a$08$N/yHLT/v.lQgWaVgjVbsjOdHQdJAcmSV4jCKfxi/pKfyOvHEjX40K",
+    "first_name": "Elsa",
+    "last_name": "Andersson",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/9b5c361d-c293-46e6-be0b-4a771f0da957-female2.png",
+    "home_university": "5f0ee8378aa15a468c55ce7e",
+    "destination_university": "5f0ee8378aa15a468c55ce7b",
+    "home_city": "5f0ee8368aa15a468c55ce75",
+    "destination_city": "5f0ee8368aa15a468c55ce77",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": true,
+    "verification_file": "http://localhost:8080/files/verifications/profile/7d0751d8-fd72-49ef-a667-8607f43854d3-test.pdf",
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce89",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "student.1@su.se",
+    "password": "$2a$08$N/yHLT/v.lQgWaVgjVbsjOdHQdJAcmSV4jCKfxi/pKfyOvHEjX40K",
+    "first_name": "Ella",
+    "last_name": "Hansson",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/f54a94b3-ad3f-484b-bc2e-95fbc9d79597-female3.png",
+    "home_university": "5f0ee8378aa15a468c55ce7e",
+    "destination_university": "5f0ee8378aa15a468c55ce7b",
+    "home_city": "5f0ee8368aa15a468c55ce75",
+    "destination_city": "5f0ee8368aa15a468c55ce77",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": false,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce90",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "student.2@su.se",
+    "password": "$2a$08$N/yHLT/v.lQgWaVgjVbsjOdHQdJAcmSV4jCKfxi/pKfyOvHEjX40K",
+    "first_name": "Freja",
+    "last_name": "Pettersson",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/f7eb3f47-140b-4bb1-a35b-2605889b56a9-female1.png",
+    "home_university": "5f0ee8378aa15a468c55ce7e",
+    "destination_university": "5f0ee8378aa15a468c55ce7d",
+    "home_city": "5f0ee8368aa15a468c55ce75",
+    "destination_city": "5f0ee8368aa15a468c55ce77",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": true,
+    "verification_file": "http://localhost:8080/files/verifications/profile/7d0751d8-fd72-49ef-a667-8607f43854d3-test.pdf",
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce91",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "student.3@su.se",
+    "password": "$2a$08$N/yHLT/v.lQgWaVgjVbsjOdHQdJAcmSV4jCKfxi/pKfyOvHEjX40K",
+    "first_name": "Ester",
+    "last_name": "Lundqvist",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/f54a94b3-ad3f-484b-bc2e-95fbc9d79597-female3.png",
+    "home_university": "5f0ee8378aa15a468c55ce7e",
+    "destination_university": "5f0ee8378aa15a468c55ce7b",
+    "home_city": "5f0ee8368aa15a468c55ce75",
+    "destination_city": "5f0ee8368aa15a468c55ce77",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": true,
+    "verification_file": "http://localhost:8080/files/verifications/profile/7d0751d8-fd72-49ef-a667-8607f43854d3-test.pdf",
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce92",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "student.4@su.se",
+    "password": "$2a$08$N/yHLT/v.lQgWaVgjVbsjOdHQdJAcmSV4jCKfxi/pKfyOvHEjX40K",
+    "first_name": "Ellen",
+    "last_name": "Andreasson",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/9b5c361d-c293-46e6-be0b-4a771f0da957-female2.png",
+    "home_university": "5f0ee8378aa15a468c55ce7f",
+    "destination_university": "5f0ee8378aa15a468c55ce7c",
+    "home_city": "5f0ee8368aa15a468c55ce75",
+    "destination_city": "5f0ee8368aa15a468c55ce77",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": false,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce93",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "student.5@su.se",
+    "password": "$2a$08$N/yHLT/v.lQgWaVgjVbsjOdHQdJAcmSV4jCKfxi/pKfyOvHEjX40K",
+    "first_name": "Mikael",
+    "last_name": "Magnusson",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/bb499b48-e807-47ed-b415-40827f82677e-male1.png",
+    "home_university": "5f0ee8378aa15a468c55ce7e",
+    "destination_university": "5f0ee8378aa15a468c55ce7b",
+    "home_city": "5f0ee8368aa15a468c55ce75",
+    "destination_city": "5f0ee8368aa15a468c55ce77",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": false,
+    "__v": 0
+  },
+
+  {
+    "_id": "5f0ee8378aa15a468c55ce94",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "student.6@su.se",
+    "password": "$2a$08$N/yHLT/v.lQgWaVgjVbsjOdHQdJAcmSV4jCKfxi/pKfyOvHEjX40K",
+    "first_name": "Thomas",
+    "last_name": "Magnusson",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/4486f6b5-e05b-4ef7-99c7-9292d7653a49-male2.png",
+    "home_university": "5f0ee8378aa15a468c55ce7e",
+    "destination_university": "5f0ee8378aa15a468c55ce7b",
+    "home_city": "5f0ee8368aa15a468c55ce75",
+    "destination_city": "5f0ee8368aa15a468c55ce77",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": false,
+    "__v": 0
+  },
+
+  {
+    "_id": "5f0ee8378aa15a468c55ce95",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "student.7@su.se",
+    "password": "$2a$08$N/yHLT/v.lQgWaVgjVbsjOdHQdJAcmSV4jCKfxi/pKfyOvHEjX40K",
+    "first_name": "Erik",
+    "last_name": "Magnusson",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/bb499b48-e807-47ed-b415-40827f82677e-male1.png",
+    "home_university": "5f0ee8378aa15a468c55ce7e",
+    "destination_university": "5f0ee8378aa15a468c55ce7b",
+    "home_city": "5f0ee8368aa15a468c55ce75",
+    "destination_city": "5f0ee8368aa15a468c55ce77",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": false,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce96",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "killian.vogt@tum.de",
+    "password": "$2a$08$ee6NYvPPsumH8G7dD/HSGepo.uQ8DqMQCggtDqW1yxI9IJtZ/2PtG",
+    "first_name": "Killian",
+    "last_name": "Vogt",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/4486f6b5-e05b-4ef7-99c7-9292d7653a49-male2.png",
+    "home_university": "5f0ee8378aa15a468c55ce7b",
+    "destination_university": "5f0ee8378aa15a468c55ce7e",
+    "home_city": "5f0ee8368aa15a468c55ce77",
+    "destination_city": "5f0ee8368aa15a468c55ce75",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": false,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce97",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "adalinda.neumann@tum.de",
+    "password": "$2a$08$ee6NYvPPsumH8G7dD/HSGepo.uQ8DqMQCggtDqW1yxI9IJtZ/2PtG",
+    "first_name": "Adalinda",
+    "last_name": "Neumann",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/f54a94b3-ad3f-484b-bc2e-95fbc9d79597-female3.png",
+    "home_university": "5f0ee8378aa15a468c55ce7b",
+    "destination_university": "5f0ee8378aa15a468c55ce7e",
+    "home_city": "5f0ee8368aa15a468c55ce77",
+    "destination_city": "5f0ee8368aa15a468c55ce75",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": true,
+    "verification_file": "http://localhost:8080/files/verifications/profile/7d0751d8-fd72-49ef-a667-8607f43854d3-test.pdf",
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce98",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "gomeric.fischer@tum.de",
+    "password": "$2a$08$ee6NYvPPsumH8G7dD/HSGepo.uQ8DqMQCggtDqW1yxI9IJtZ/2PtG",
+    "first_name": "Gomeric",
+    "last_name": "Fischer",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/bb499b48-e807-47ed-b415-40827f82677e-male1.png",
+    "home_university": "5f0ee8378aa15a468c55ce7b",
+    "destination_university": "5f0ee8378aa15a468c55ce7e",
+    "home_city": "5f0ee8368aa15a468c55ce77",
+    "destination_city": "5f0ee8368aa15a468c55ce75",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": true,
+    "verification_file": "http://localhost:8080/files/verifications/profile/7d0751d8-fd72-49ef-a667-8607f43854d3-test.pdf",
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ce99",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "wilhemine.albrecht@tum.de",
+    "password": "$2a$08$ee6NYvPPsumH8G7dD/HSGepo.uQ8DqMQCggtDqW1yxI9IJtZ/2PtG",
+    "first_name": "Wilhelmine",
+    "last_name": "Albrecht",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/f54a94b3-ad3f-484b-bc2e-95fbc9d79597-female3.png",
+    "home_university": "5f0ee8378aa15a468c55ce7b",
+    "destination_university": "5f0ee8378aa15a468c55ce7e",
+    "home_city": "5f0ee8368aa15a468c55ce77",
+    "destination_city": "5f0ee8368aa15a468c55ce75",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": true,
+    "verification_file": "http://localhost:8080/files/verifications/profile/7d0751d8-fd72-49ef-a667-8607f43854d3-test.pdf",
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf01",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "odo.gerver@tum.de",
+    "password": "$2a$08$ee6NYvPPsumH8G7dD/HSGepo.uQ8DqMQCggtDqW1yxI9IJtZ/2PtG",
+    "first_name": "Odo",
+    "last_name": "Gerver",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/bb499b48-e807-47ed-b415-40827f82677e-male1.png",
+    "home_university": "5f0ee8378aa15a468c55ce7b",
+    "destination_university": "5f0ee8378aa15a468c55ce7e",
+    "home_city": "5f0ee8368aa15a468c55ce77",
+    "destination_city": "5f0ee8368aa15a468c55ce75",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": false,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf02",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "student.1@gu.se",
+    "password": "$2a$08$N/yHLT/v.lQgWaVgjVbsjOdHQdJAcmSV4jCKfxi/pKfyOvHEjX40K",
+    "first_name": "Olivia",
+    "last_name": "Allender",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/f54a94b3-ad3f-484b-bc2e-95fbc9d79597-female3.png",
+    "home_university": "5f0ee8378aa15a468c55ce79",
+    "destination_university": "5f0ee8378aa15a468c55ce82",
+    "home_city": "5f0ee8368aa15a468c55ce76",
+    "destination_city": "5f0ee8368aa15a468c55cda7",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": false,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55ceff",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "student.2@gu.se",
+    "password": "$2a$08$N/yHLT/v.lQgWaVgjVbsjOdHQdJAcmSV4jCKfxi/pKfyOvHEjX40K",
+    "first_name": "Wilma",
+    "last_name": "Pettersson",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/f7eb3f47-140b-4bb1-a35b-2605889b56a9-female1.png",
+    "home_university": "5f0ee8378aa15a468c55ce79",
+    "destination_university": "5f0ee8378aa15a468c55ce81",
+    "home_city": "5f0ee8368aa15a468c55ce76",
+    "destination_city": "5f0ee8368aa15a468c55cda7",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": true,
+    "verification_file": "http://localhost:8080/files/verifications/profile/7d0751d8-fd72-49ef-a667-8607f43854d3-test.pdf",
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf03",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "student.3@gu.se",
+    "password": "$2a$08$N/yHLT/v.lQgWaVgjVbsjOdHQdJAcmSV4jCKfxi/pKfyOvHEjX40K",
+    "first_name": "Sofia",
+    "last_name": "Lundqvist",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/f54a94b3-ad3f-484b-bc2e-95fbc9d79597-female3.png",
+    "home_university": "5f0ee8378aa15a468c55ce79",
+    "destination_university": "5f0ee8378aa15a468c55ce82",
+    "home_city": "5f0ee8368aa15a468c55ce76",
+    "destination_city": "5f0ee8368aa15a468c55cda7",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": true,
+    "verification_file": "http://localhost:8080/files/verifications/profile/7d0751d8-fd72-49ef-a667-8607f43854d3-test.pdf",
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf04",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "student.4@gu.se",
+    "password": "$2a$08$N/yHLT/v.lQgWaVgjVbsjOdHQdJAcmSV4jCKfxi/pKfyOvHEjX40K",
+    "first_name": "Rut",
+    "last_name": "Andreasson",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/9b5c361d-c293-46e6-be0b-4a771f0da957-female2.png",
+    "home_university": "5f0ee8378aa15a468c55ce7f",
+    "destination_university": "5f0ee8378aa15a468c55ce7c",
+    "home_city": "5f0ee8368aa15a468c55ce76",
+    "destination_city": "5f0ee8368aa15a468c55cda7",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": false,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf05",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "student.5@gu.se",
+    "password": "$2a$08$N/yHLT/v.lQgWaVgjVbsjOdHQdJAcmSV4jCKfxi/pKfyOvHEjX40K",
+    "first_name": "Noah",
+    "last_name": "Blomstrom",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/bb499b48-e807-47ed-b415-40827f82677e-male1.png",
+    "home_university": "5f0ee8378aa15a468c55ce79",
+    "destination_university": "5f0ee8378aa15a468c55ce82",
+    "home_city": "5f0ee8368aa15a468c55ce76",
+    "destination_city": "5f0ee8368aa15a468c55cda7",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": false,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf06",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "student.6@gu.se",
+    "password": "$2a$08$N/yHLT/v.lQgWaVgjVbsjOdHQdJAcmSV4jCKfxi/pKfyOvHEjX40K",
+    "first_name": "Alexander",
+    "last_name": "Magnusson",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/4486f6b5-e05b-4ef7-99c7-9292d7653a49-male2.png",
+    "home_university": "5f0ee8378aa15a468c55ce79",
+    "destination_university": "5f0ee8378aa15a468c55ce82",
+    "home_city": "5f0ee8368aa15a468c55ce76",
+    "destination_city": "5f0ee8368aa15a468c55cda7",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": false,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf07",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "student.7@gu.se",
+    "password": "$2a$08$N/yHLT/v.lQgWaVgjVbsjOdHQdJAcmSV4jCKfxi/pKfyOvHEjX40K",
+    "first_name": "Walter",
+    "last_name": "Bjurstrom",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/bb499b48-e807-47ed-b415-40827f82677e-male1.png",
+    "home_university": "5f0ee8378aa15a468c55ce79",
+    "destination_university": "5f0ee8378aa15a468c55ce82",
+    "home_city": "5f0ee8368aa15a468c55ce76",
+    "destination_city": "5f0ee8368aa15a468c55cda7",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": false,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf08",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "killian.vogt@htw-berlin.de",
+    "password": "$2a$08$ee6NYvPPsumH8G7dD/HSGepo.uQ8DqMQCggtDqW1yxI9IJtZ/2PtG",
+    "first_name": "Reinhard",
+    "last_name": "Kühn",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/4486f6b5-e05b-4ef7-99c7-9292d7653a49-male2.png",
+    "home_university": "5f0ee8378aa15a468c55ce81",
+    "destination_university": "5f0ee8378aa15a468c55ce79",
+    "home_city": "5f0ee8368aa15a468c55ce78",
+    "destination_city": "5f0ee8368aa15a468c55ce76",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": false,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf09",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "adalinda.neumann@htw-berlin.de",
+    "password": "$2a$08$ee6NYvPPsumH8G7dD/HSGepo.uQ8DqMQCggtDqW1yxI9IJtZ/2PtG",
+    "first_name": "Adalinda",
+    "last_name": "Neumann",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/f54a94b3-ad3f-484b-bc2e-95fbc9d79597-female3.png",
+    "home_university": "5f0ee8378aa15a468c55ce81",
+    "destination_university": "5f0ee8378aa15a468c55ce79",
+    "home_city": "5f0ee8368aa15a468c55ce78",
+    "destination_city": "5f0ee8368aa15a468c55ce76",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": true,
+    "verification_file": "http://localhost:8080/files/verifications/profile/7d0751d8-fd72-49ef-a667-8607f43854d3-test.pdf",
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf10",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "gomeric.fischer@htw-berlin.de",
+    "password": "$2a$08$ee6NYvPPsumH8G7dD/HSGepo.uQ8DqMQCggtDqW1yxI9IJtZ/2PtG",
+    "first_name": "Gomeric",
+    "last_name": "Riese",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/bb499b48-e807-47ed-b415-40827f82677e-male1.png",
+    "home_university": "5f0ee8378aa15a468c55ce81",
+    "destination_university": "5f0ee8378aa15a468c55ce79",
+    "home_city": "5f0ee8368aa15a468c55ce78",
+    "destination_city": "5f0ee8368aa15a468c55ce76",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": true,
+    "verification_file": "http://localhost:8080/files/verifications/profile/7d0751d8-fd72-49ef-a667-8607f43854d3-test.pdf",
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf11",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "wilhemine.albrecht@htw-berlin.de",
+    "password": "$2a$08$ee6NYvPPsumH8G7dD/HSGepo.uQ8DqMQCggtDqW1yxI9IJtZ/2PtG",
+    "first_name": "Wilhelmine",
+    "last_name": "Weimann",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/f54a94b3-ad3f-484b-bc2e-95fbc9d79597-female3.png",
+    "home_university": "5f0ee8378aa15a468c55ce81",
+    "destination_university": "5f0ee8378aa15a468c55ce79",
+    "home_city": "5f0ee8368aa15a468c55ce78",
+    "destination_city": "5f0ee8368aa15a468c55ce76",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": true,
+    "verification_file": "http://localhost:8080/files/verifications/profile/7d0751d8-fd72-49ef-a667-8607f43854d3-test.pdf",
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf12",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "odo.gerver@htw-berlin.de",
+    "password": "$2a$08$ee6NYvPPsumH8G7dD/HSGepo.uQ8DqMQCggtDqW1yxI9IJtZ/2PtG",
+    "first_name": "Odo",
+    "last_name": "Weiss",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/bb499b48-e807-47ed-b415-40827f82677e-male1.png",
+    "home_university": "5f0ee8378aa15a468c55ce81",
+    "destination_university": "5f0ee8378aa15a468c55ce79",
+    "home_city": "5f0ee8368aa15a468c55ce78",
+    "destination_city": "5f0ee8368aa15a468c55ce76",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": false,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf13",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "hans.vogel@tum.de",
+    "password": "$2a$08$ee6NYvPPsumH8G7dD/HSGepo.uQ8DqMQCggtDqW1yxI9IJtZ/2PtG",
+    "first_name": "Hans",
+    "last_name": "Vogel",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/4486f6b5-e05b-4ef7-99c7-9292d7653a49-male2.png",
+    "home_university": "5f0ee8378aa15a468c55ce7b",
+    "destination_university": "5f0ee8378aa15a468c55ce79",
+    "home_city": "5f0ee8368aa15a468c55ce77",
+    "destination_city": "5f0ee8368aa15a468c55ce76",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": false,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf14",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "toni.vogel@tum.de",
+    "password": "$2a$08$ee6NYvPPsumH8G7dD/HSGepo.uQ8DqMQCggtDqW1yxI9IJtZ/2PtG",
+    "first_name": "Toni",
+    "last_name": "Vogel",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/4486f6b5-e05b-4ef7-99c7-9292d7653a49-male2.png",
+    "home_university": "5f0ee8378aa15a468c55ce7b",
+    "destination_university": "5f0ee8378aa15a468c55ce79",
+    "home_city": "5f0ee8368aa15a468c55ce77",
+    "destination_city": "5f0ee8368aa15a468c55ce76",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": true,
+    "verification_file": "http://localhost:8080/files/verifications/profile/7d0751d8-fd72-49ef-a667-8607f43854d3-test.pdf",
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf15",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "peter.vogel@tum.de",
+    "password": "$2a$08$ee6NYvPPsumH8G7dD/HSGepo.uQ8DqMQCggtDqW1yxI9IJtZ/2PtG",
+    "first_name": "Peter",
+    "last_name": "Vogel",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/4486f6b5-e05b-4ef7-99c7-9292d7653a49-male2.png",
+    "home_university": "5f0ee8378aa15a468c55ce7b",
+    "destination_university": "5f0ee8378aa15a468c55ce79",
+    "home_city": "5f0ee8368aa15a468c55ce77",
+    "destination_city": "5f0ee8368aa15a468c55ce76",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": false,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf16",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "student.df1@su.se",
+    "password": "$2a$08$N/yHLT/v.lQgWaVgjVbsjOdHQdJAcmSV4jCKfxi/pKfyOvHEjX40K",
+    "first_name": "Tina",
+    "last_name": "Hansson",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/f54a94b3-ad3f-484b-bc2e-95fbc9d79597-female3.png",
+    "home_university": "5f0ee8378aa15a468c55ce7e",
+    "destination_university": "5f0ee8378aa15a468c55ce83",
+    "home_city": "5f0ee8368aa15a468c55ce75",
+    "destination_city": "5f0ee8368aa15a468c55ce78",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": false,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf17",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "student.ss2@su.se",
+    "password": "$2a$08$N/yHLT/v.lQgWaVgjVbsjOdHQdJAcmSV4jCKfxi/pKfyOvHEjX40K",
+    "first_name": "Sam",
+    "last_name": "Pettersson",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/f7eb3f47-140b-4bb1-a35b-2605889b56a9-female1.png",
+    "home_university": "5f0ee8378aa15a468c55ce7e",
+    "destination_university": "5f0ee8378aa15a468c55ce83",
+    "home_city": "5f0ee8368aa15a468c55ce75",
+    "destination_city": "5f0ee8368aa15a468c55ce78",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": false,
+    "__v": 0
+  },
+  {
+    "_id": "5f0ee8378aa15a468c55cf18",
+    "roles": [
+      "5f0ee8378aa15a468c55ce85"
+    ],
+    "email": "student.dsd3@su.se",
+    "password": "$2a$08$N/yHLT/v.lQgWaVgjVbsjOdHQdJAcmSV4jCKfxi/pKfyOvHEjX40K",
+    "first_name": "Anita",
+    "last_name": "Lundqvist",
+    "profile_picture": "http://localhost:8080/public/pictures/profile/f54a94b3-ad3f-484b-bc2e-95fbc9d79597-female3.png",
+    "home_university": "5f0ee8378aa15a468c55ce7e",
+    "destination_university": "5f0ee8378aa15a468c55ce83",
+    "home_city": "5f0ee8368aa15a468c55ce75",
+    "destination_city": "5f0ee8368aa15a468c55ce78",
+    "exchange_date_start": "2020-05-31T22:00:00Z",
+    "exchange_date_end": "2020-12-31T22:59:59Z",
+    "is_verified_exchange_student": true,
+    "verification_file": "http://localhost:8080/files/verifications/profile/7d0751d8-fd72-49ef-a667-8607f43854d3-test.pdf",
+    "__v": 0
+  }
+]

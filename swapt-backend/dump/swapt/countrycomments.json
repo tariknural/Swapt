@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "5f0ee8378aa15a468c55ce8e",
+    "countryId": "5f0ee8368aa15a468c55cda7",
+    "informationType": "generalInformation",
+    "comments": [
+      {
+        "_id": "5f0ee8378aa15a468c55ce8c",
+        "comment": "I was in Germany last year and I would recommend it to everyone. It's great and especially make sure to be there in autumn and visit the Okterberfest!",
+        "answers": [
+          {
+            "_id": "5f0ee8378aa15a468c55ce8b",
+            "comment": "Thanks for the information. I will be in Munich next Semester and I will definetely go to the Okterfest.",
+            "answers": [],
+            "user": "5f0ee8378aa15a468c55ce86",
+            "time": "2020-07-15T11:27:51.798Z"
+          }
+        ],
+        "user": "5f0ee8378aa15a468c55ce87",
+        "time": "2020-07-15T11:27:51.799Z"
+      }
+    ],
+    "__v": 0
+  }
+]
